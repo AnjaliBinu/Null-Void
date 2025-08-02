@@ -16,23 +16,18 @@
 [2-3 lines about what your project does]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Bordem 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Way to get over Bordem
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML
+- JavaScript
+- CSS
+- IbisPaintX
 
 ### Implementation
 For Software:
@@ -40,56 +35,29 @@ For Software:
 [commands]
 
 # Run
-[commands]
+Use VS code with all the folders provided and right click on index.html and open with live server
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+# Screenshots 
+http://youtube.com/post/Ugkxa8mR3DOIJSAGt_AdTEBxdwS8ztCfxzi-?si=4azBf8BcUl0NsEEv
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+http://youtube.com/post/UgkxVUaQ_Oz7Pf9wB_iQZ8WGGD-a_KzmE62f?si=Xe3u14CivJ0aPcAJ
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+(http://youtube.com/post/Ugkxk_7AJdsVaEYy4eQaq69vEc4ARN0bUehX?si=rf3osehI7mfP9kRs)
 *Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://youtu.be/vc_ZB-hfbNQ?si=jVw18X6gObjGS2eD
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Anjali Binu : [Specific contributions]
+- Aemilia Rose P J : [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
