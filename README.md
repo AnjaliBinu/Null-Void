@@ -47,7 +47,7 @@ http://youtube.com/post/Ugkxa8mR3DOIJSAGt_AdTEBxdwS8ztCfxzi-?si=4azBf8BcUl0NsEEv
 http://youtube.com/post/UgkxVUaQ_Oz7Pf9wB_iQZ8WGGD-a_KzmE62f?si=Xe3u14CivJ0aPcAJ
 *Add caption explaining what this shows*
 
-(http://youtube.com/post/Ugkxk_7AJdsVaEYy4eQaq69vEc4ARN0bUehX?si=rf3osehI7mfP9kRs)
+[http://youtube.com/post/Ugkxk_7AJdsVaEYy4eQaq69vEc4ARN0bUehX?si=rf3osehI7mfP9kRs]
 *Add caption explaining what this shows*
 
 ### Project Demo
