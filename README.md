@@ -5,12 +5,12 @@
 
 
 ## Basic Details
-### Team Name: [Null & Void]
+### Team Name: Null & Void
 
 
 ### Team Members
-- Member 1: [Anjali Binu] - [Albertian Institute of Science and Technology ]
-- Member 2: [Aemilia Rose P J] - [Albertian Institute of Science and Technology]
+- Member 1: Anjali Binu - Albertian Institute of Science and Technology 
+- Member 2: Aemilia Rose P J - Albertian Institute of Science and Technology
 
 ### Project Description
 [2-3 lines about what your project does]
