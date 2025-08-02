@@ -69,7 +69,7 @@ For Software:
 # Screenshots 
 [Photo 1](http://youtube.com/post/Ugkxa8mR3DOIJSAGt_AdTEBxdwS8ztCfxzi-?si=4azBf8BcUl0NsEEv)
 
-[Photot 2](http://youtube.com/post/UgkxVUaQ_Oz7Pf9wB_iQZ8WGGD-a_KzmE62f?si=Xe3u14CivJ0aPcAJ)
+[Photo 2](http://youtube.com/post/UgkxVUaQ_Oz7Pf9wB_iQZ8WGGD-a_KzmE62f?si=Xe3u14CivJ0aPcAJ)
 
 [Photo 3](http://youtube.com/post/Ugkxk_7AJdsVaEYy4eQaq69vEc4ARN0bUehX?si=rf3osehI7mfP9kRs)
 
